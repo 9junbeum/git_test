@@ -32,6 +32,8 @@ namespace git_test
             //test
             //다시 만들어서 merge만 해봄
             //메롱
+            //푸시하지 않고 merge 해봄
+
         }
     }
 }
