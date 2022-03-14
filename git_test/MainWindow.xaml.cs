@@ -24,6 +24,7 @@ namespace git_test
         {
             InitializeComponent();
             //변경사항
+            //로컬입니까?
         }
     }
 }
