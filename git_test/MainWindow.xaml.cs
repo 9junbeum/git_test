@@ -25,6 +25,8 @@ namespace git_test
             InitializeComponent();
             //변경사항
             //로컬입니까?
+            //새 브랜치를 만들었습니다.
+            //지금은 방금 만든 새 브랜치에 푸시해보겠습니다.
         }
     }
 }
