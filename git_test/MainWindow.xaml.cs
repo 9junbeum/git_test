@@ -23,6 +23,7 @@ namespace git_test
         public MainWindow()
         {
             InitializeComponent();
+            //변경사항
         }
     }
 }
