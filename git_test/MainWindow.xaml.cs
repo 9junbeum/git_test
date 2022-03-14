@@ -31,7 +31,7 @@ namespace git_test
             //스테이지에 올린후 커밋을 해야합니다.
             //test
             //다시 만들어서 merge만 해봄
-
+            //메롱
         }
     }
 }
