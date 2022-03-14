@@ -33,7 +33,7 @@ namespace git_test
             //다시 만들어서 merge만 해봄
             //메롱
             //푸시하지 않고 merge 해봄
-
+            //vs code 에서 작성하고 gitbash로 커밋 및 
         }
     }
 }
